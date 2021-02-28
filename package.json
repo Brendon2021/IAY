@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Brendon2021/IAY/issues"
   },
-  "homepage": "https://github.com/Brendon2021/IAY#readme"
+  "homepage": "https://github.com/Brendon2021/IAY#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
